@@ -1,0 +1,27 @@
+compiled/
+build/
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+
+
+# IDE files
+
+.vscode/
+.idea/
+.vs/
